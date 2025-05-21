@@ -1,0 +1,1 @@
+# angular-word-analyzer
